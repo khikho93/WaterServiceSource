@@ -1,0 +1,117 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="TAWAGISFinder.Class.Settings.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="DarkBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28" >
+            <TextBlock Text="Thông tin phần mềm" 
+                       FontSize="40"
+                       Margin="9,0,0,0" 
+                       Style="{StaticResource PhoneTextTitle1Style}"
+                       FontWeight="Bold"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Background="WhiteSmoke">
+            <StackPanel Grid.Row="0" Margin="0,17,0,28">
+                <TextBlock Text="PHẦN MỀM TAWAGISFinder 1.0"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="Blue"
+                           TextAlignment="Center"/>
+                <Viewbox Stretch="Fill" Height="67" StretchDirection="DownOnly" VerticalAlignment="Top">
+                    <TextBlock Text="© 2015, Sản phầm và kết quả nghiên cứu và bản quyền thuộc đồng sở hữu:"
+                               FontSize="20"  
+                               TextWrapping="Wrap" 
+                               Margin="0,3,0,0" 
+                               Height="67" Width="383"
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+                </Viewbox>
+                <TextBlock Text="CÔNG TY CỔ PHẦN CẤP NƯỚC TRUNG AN"
+                               FontSize="19"  
+                               TextWrapping="Wrap" 
+                               Margin="10,3,10,0" 
+                               Height="31"
+                               FontWeight="Bold"
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+                <TextBlock Text="33 Phạm Văn Đồng, P.1, Q.Gò Vấp, Tp.HCM"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,3,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+
+                <TextBlock Text="Điện thoại: 08.3588 3474 | Fax: 08.3588 3475"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+
+                <TextBlock Text="Email: tawaco@capnuoctrungan.com.vn;"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+
+                <TextBlock Text="Website: www.capnuoctrungan.com.vn"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+                <TextBlock Text="CÔNG TY TNHH GIẢI PHÁP VÀ CÔNG NGHỆ ĐỊA DƯ"
+                	FontSize="19"  
+                	TextWrapping="Wrap" 
+                	Margin="0,40,0,0" 
+                	Height="31"
+                	FontWeight="Bold"
+                	TextAlignment="Center"
+                	Foreground="Black" />
+
+                <TextBlock Text="67/50/5 Đường 38, KP.8, P.HBC, Q.Thủ Đức, Tp.HCM"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+
+                <TextBlock Text="Hotline: 0905 530 355 | Fax: 08 5403 6413"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+
+                <TextBlock Text="Email: sales@diadu.vn | Website: http://diadu.vn"
+                               FontSize="18"  
+                               TextWrapping="Wrap" 
+                               Margin="10,0,10,0" 
+                               TextAlignment="Center"
+                               Foreground="Black"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

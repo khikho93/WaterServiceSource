@@ -1,0 +1,185 @@
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csprojResolveAssemblyReference.cache
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\App.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CauseCustomerPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\DetailCustomerPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UpdataLocationCustomerPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UtilizationWaterPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Main\HomePage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\ListCustomerPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\ReceiveDataFromServerPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\AboutPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ChangePasswordPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListRoutePage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListTypeMapPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\SettingsPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\SynchronizDataPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\MainPage.g.cs
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.g.resources
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.Resources.AppResources.resources
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csproj.GenerateResource.Cache
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\ApplicationIcon.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.pdb
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\AppManifest.xaml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Properties\WMAppManifest.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder_Debug_ARM.xap
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.winmd
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.xml
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.dll
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.pdb
+D:\OutsourceMap - Copy\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\XapCacheFile.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\ApplicationIcon.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.pdb
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\AppManifest.xaml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Properties\WMAppManifest.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder_Debug_ARM.xap
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.winmd
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\App.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CauseCustomerPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\DetailCustomerPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UpdataLocationCustomerPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UtilizationWaterPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Main\HomePage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\ListCustomerPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\ReceiveDataFromServerPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\AboutPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ChangePasswordPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListRoutePage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListTypeMapPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\SettingsPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\SynchronizDataPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\MainPage.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.g.resources
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.Resources.AppResources.resources
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csproj.GenerateResource.Cache
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.pdb
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\XapCacheFile.xml
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CustomerImages.g.cs
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\Learn\Project\WaterService\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csprojResolveAssemblyReference.cache
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\ApplicationIcon.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.pdb
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\AppManifest.xaml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Properties\WMAppManifest.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder_Debug_ARM.xap
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.Maps.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.winmd
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\App.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CauseCustomerPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CustomerImages.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\DetailCustomerPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UpdataLocationCustomerPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UtilizationWaterPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Main\HomePage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\ListCustomerPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\ReceiveDataFromServerPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\AboutPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ChangePasswordPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListRoutePage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListTypeMapPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\SettingsPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\SynchronizDataPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\MainPage.g.cs
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.g.resources
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.Resources.AppResources.resources
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csproj.GenerateResource.Cache
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.dll
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.pdb
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\XapCacheFile.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder.pdb
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\AppManifest.xaml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Properties\WMAppManifest.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\TAWAGISFinder_Debug_ARM.xap
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.winmd
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\Sqlite.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\Bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csprojResolveAssemblyReference.cache
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\App.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CauseCustomerPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\CustomerImages.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\DetailCustomerPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UpdataLocationCustomerPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\UtilizationWaterPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Main\HomePage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Customer\ListCustomerPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\ReceiveDataFromServerPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\AboutPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ChangePasswordPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListRoutePage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\ListTypeMapPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\Settings\SettingsPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ProcessData\SynchronizDataPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.g.resources
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.Resources.AppResources.resources
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.csproj.GenerateResource.Cache
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.dll
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\TAWAGISFinder.pdb
+C:\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\XapCacheFile.xml
+\\WIN-7HE5GALRCG8\Users\Public\Share\TAWAGISFinder\TAWAGISFinder\obj\ARM\Debug\Class\ViewModel\SearchCustomerOnline.g.cs
